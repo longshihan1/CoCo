@@ -1,15 +1,14 @@
-# CoCo
- [![Hex.pm](https://img.shields.io/badge/download-0.1.0-green)](https://www.apache.org/licenses/LICENSE-2.0)
+# CoCo (非Android X版本,不再维护)
+ [![Hex.pm](https://img.shields.io/badge/download-0.2.0-green)](https://www.apache.org/licenses/LICENSE-2.0)
  [![Hex.pm](https://img.shields.io/badge/Api-4.0%2B-yellow)]()
  [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
- [![Hex.pm](https://img.shields.io/badge/Jetpack-AndroidX-red)]()
 #### 一个更好用的Android系统相机拍照和系统相册选择库：
  - 一行代码完成从系统相机拍照或者系统相册选择图片
  - 内部适配 7.0 FileProvider文件处理，无需自己额外处理
  - 默认支持多种图片压缩策略，并可自定义图片压缩策略
  - 完全基于Kotlin编写，与Java兼容
  - 支持Activity、Fragment,图片压缩异步处理自动绑定相关生命周期
- - 全面适配AndroidX、配置简单，导入方便
+ - 配置简单，导入方便
  - 支持debug模式
 ## Installation：
 
